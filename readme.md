@@ -1,7 +1,5 @@
 #learn git and github
-skdnvlnsdilvnilvniv
-vververbvtebt
-btrbtrbnrb
+
 can write codes too here
 
 ```javascript
